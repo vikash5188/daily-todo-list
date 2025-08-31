@@ -1,0 +1,14 @@
+{
+  "name": "daily-todo-list",
+  "version": "1.0.0",
+  "description": "Daily To-Do List PWA",
+  "scripts": {
+    "build": "echo 'No build needed'",
+    "android": "cap run android"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/android": "latest"
+  }
+}
