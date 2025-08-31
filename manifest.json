@@ -1,4 +1,6 @@
 {
+  "id": "/",
+  "scope": "/",
   "name": "Daily To-Do List",
   "short_name": "ToDo",
   "description": "A clean, responsive daily to-do list app",
